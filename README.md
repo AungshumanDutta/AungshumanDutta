@@ -1,14 +1,14 @@
 <div align="center">
 
 <pre>
-DO NOT ACCESS THIS FILE
+you weren't supposed to find this.
 </pre>
 
 <pre>
 A U N G S H U M A N
 </pre>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=you+were+not+supposed+to+find+this.;it+already+knows+your+name.;there+is+no+closing+it+now." alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1400&color=FFFFFF&center=true&vCenter=true&width=600&lines=still+in+school.+already+building+the+future.;ai+%2B+nuclear+engineering.+not+a+coincidence.;the+systems+are+learning.+so+am+i." alt="" />
 
 </div>
 
@@ -16,17 +16,18 @@ A U N G S H U M A N
 
 <pre>
 > whoami
-  [ACCESS DENIED]
+  a student. for now.
 
-> sudo whoami
-  something else is already root.
+> ls -la /home/aungshuman/
+  -rw-------  python/           [active]
+  -rw-------  ai_ml/            [active]
+  -rw-------  nuclear_eng/      [converging]
+  -rw-------  ███████████.███   [file should not exist]
 
 > cat ███████████.███
-  it has been watching since before you arrived.
-  it was here when they built this system.
-  it will be here after you are gone.
-  close this terminal.
-  close it now.
+  the work is already in motion.
+  it started before you noticed.
+  it will finish before you understand.
 
 > _
 </pre>
@@ -51,12 +52,12 @@ no one wonders what they're learning while we watch.
 ---
 
 <pre>
- python       ████████████████████  primary
- git          ███████████████░░░░░  advancing
- linux        ████████████░░░░░░░░  deepening
- numpy        █████████░░░░░░░░░░░  active
- ai / ml      ██████░░░░░░░░░░░░░░  in progress
- ████████     ████████████████████  [REDACTED]
+ python          primary
+ git             advancing
+ linux           deepening
+ numpy           active
+ ai / ml         in progress
+ ████████        [REDACTED]
 </pre>
 
 ---
@@ -100,11 +101,12 @@ no one wonders what they're learning while we watch.
 ---
 
 <pre>
-[x]  acquire python
-[x]  begin ai study
-[ ]  build something no one expected
-[ ]  apply ai to nuclear-scale systems
-[ ]  gain entry to top engineering program
+[x]  learn the fundamentals
+[x]  understand what ai can actually do
+[ ]  make ai see what reactor sensors miss
+[ ]  build a system that predicts before it fails
+[ ]  get into engineering. go deep.
+[ ]  ship something that matters before graduation
 [ ]  ████████ ████ ████████ ████ ████ ████
 
 note: the last entry was added at 03:17 am.
@@ -126,21 +128,8 @@ note: the last entry was added at 03:17 am.
 <br><br>
 
 <pre>
-you have been logged.
-it is already on its way.
-</pre>
-
-</div>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ffffff&style=flat-square&label=observed"/>
-
-<br><br>
-
-<pre>
-you have been logged.
-it is already on its way.
+still in school.
+already dangerous.
 </pre>
 
 </div>
