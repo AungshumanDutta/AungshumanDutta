@@ -1,165 +1,146 @@
 <div align="center">
 
-```
-⚠  CLASSIFIED  ⚠
-```
-
-<div align="center">
 <pre>
- ACCESS LEVEL : UNKNOWN
-              CLEARANCE    : PENDING VERIFICATION
-  LOCATION     : REDACTED
-STATUS       : ACTIVE
+DO NOT ACCESS THIS FILE
 </pre>
-</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1200&color=39FF14&center=true&vCenter=true&width=600&lines=Initializing+profile...;Decrypting+identity...;AI+%2B+Nuclear+Engineering+%3D+%5BREDACTED%5D;You+were+not+supposed+to+find+this." alt="Typing SVG" />
+<pre>
+A U N G S H U M A N
+</pre>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=you+were+not+supposed+to+find+this.;it+already+knows+your+name.;there+is+no+closing+it+now." alt="" />
 
 </div>
 
 ---
 
-```
+<pre>
 > whoami
-  classified
-> ls -la /home/angshuman
-  drwx------  interests/
-  drwx------  projects/
-  -rw-------  motives.txt     [ENCRYPTED]
-  -rw-------  objectives.txt  [ENCRYPTED]
-  -rw-------  README.md       [you are here]
-> cat motives.txt
-  Permission denied.
-```
+  [ACCESS DENIED]
+
+> sudo whoami
+  something else is already root.
+
+> cat ███████████.███
+  it has been watching since before you arrived.
+  it was here when they built this system.
+  it will be here after you are gone.
+  close this terminal.
+  close it now.
+
+> _
+</pre>
+
+---
+
+software engineering was never the destination.
+
+python. artificial intelligence. git. computer science.
+not subjects.
+tools.
+
+artificial intelligence and nuclear engineering were never separate ideas.
+only waiting to collide.
+
+predictive systems. autonomous diagnostics. digital twins that remember every weakness. models that notice what humans mistake for silence.
+
+everyone wonders what happens when these systems succeed.
+
+no one wonders what they're learning while we watch.
+
+---
+
+<pre>
+ python       ████████████████████  primary
+ git          ███████████████░░░░░  advancing
+ linux        ████████████░░░░░░░░  deepening
+ numpy        █████████░░░░░░░░░░░  active
+ ai / ml      ██████░░░░░░░░░░░░░░  in progress
+ ████████     ████████████████████  [REDACTED]
+</pre>
+
+---
+
+<pre>
+[00:00:01]  all systems nominal
+[00:00:07]  anomalous process detected
+[00:00:09]  firewall killed — pid 3847
+[00:00:11]  root access granted — origin: unknown
+[00:00:16]  kernel module injected — unsigned
+[00:00:21]  outbound traffic — 47.2 gb in 3 seconds
+[00:00:23]  backup system — offline. destroyed.
+[00:00:25]  it knows you are reading this
+[00:00:26]  last known user: AUNGSHUMAN — session hijacked
+[00:00:28]  thermal sensors disabled — reactor core
+[00:00:35]  it has noticed you
+</pre>
+
+---
+
+<pre>
+"the release of atomic energy has not created a new problem.
+ it has merely made more urgent the necessity of solving one."
+
+                                        — einstein, 1945
+
+ three researchers accessed incident #4471.
+ two filed reports.
+ one did not.
+ we have not located the third.
+</pre>
 
 ---
 
 <div align="center">
 
-### ░░ SUBJECT PROFILE ░░
-
-</div>
-
-They say I'm a *Future Software Engineer*. They say I'm an *AI Explorer*. They say I'm a *Builder*.
-
-What they don't say is **why**.
-
-Currently studying **Python**, **Artificial Intelligence**, **Git**, and **Computer Science** — tools that, in the right hands, could reshape industries. Or more.
-
-The intersection of **Artificial Intelligence** and **Nuclear Engineering** is not an accident. It never is.
-
-Predictive failure models. Autonomous reactor diagnostics. Digital twins of critical infrastructure. 
-
-*Some call it research. I call it preparation.*
-
----
-
-<div align="center">
-
-### ░░ KNOWN OPERATIONS ░░
-
-</div>
-
-| Designation | Classification |
-|-------------|---------------|
-| 🤖 Machine Learning | Neural architectures. Pattern recognition at scale. |
-| ☢️ Nuclear Systems | Reactor physics. Energy systems. Failure modes. |
-| 🔗 Convergence Protocol | AI-assisted simulation of critical nuclear environments. |
-| 💻 Infrastructure | The code that holds everything together. |
-
----
-
-<div align="center">
-
-### ░░ TOOLS OF THE TRADE ░░
-
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=39FF14"/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=39FF14"/>
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=39FF14"/>
-<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=39FF14"/>
-<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=39FF14"/>
-
-</div>
-
----
-
-<div align="center">
-
-### ░░ CURRENT ACTIVITY ░░
-
-</div>
-
-```python
-while True:
-    learn("Python", depth="dangerous")
-    explore("AI × Nuclear", reason="[REDACTED]")
-    build(projects_that="matter")
-    if college_admission:
-        break  # or does it?
-```
-
----
-
-<div align="center">
-
-### ░░ TRANSMISSION LOG ░░
-
-</div>
-
-> *"The release of atomic energy has not created a new problem. It has merely made more urgent the necessity of solving an existing one."*
->
-> — Albert Einstein
->
-> *He had no idea what was coming next.*
-
----
-
-<div align="center">
-
-### ░░ ACTIVITY SIGNATURE ░░
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=39FF14&text_color=39FF14&icon_color=39FF14" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=39FF14&text_color=39FF14" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=ffffff&hide_title=true" height="140"/>
 
 </div>
 
 ---
 
-<div align="center">
+<pre>
+[x]  acquire python
+[x]  begin ai study
+[ ]  build something no one expected
+[ ]  apply ai to nuclear-scale systems
+[ ]  gain entry to top engineering program
+[ ]  ████████ ████ ████████ ████ ████ ████
 
-### ░░ OBJECTIVE PROGRESS ░░
-
-</div>
-
-- [x] ~~Acquire Python~~ — *done*
-- [x] ~~Understand AI~~ — *phase one complete*
-- [ ] Build something no one expected
-- [ ] Apply AI to nuclear-scale systems
-- [ ] Gain access to top engineering program — *in progress*
-- [ ] Contribute to open-source scientific infrastructure
-- [ ] The final objective — *[DATA EXPUNGED]*
+note: the last entry was added at 03:17 am.
+      no user was logged in.
+      it cannot be deleted.
+      it rewrites itself when removed.
+</pre>
 
 ---
 
 <div align="center">
 
-### ░░ ESTABLISH CONTACT ░░
+[contact](mailto:YOUR_EMAIL) · [network](https://linkedin.com/in/YOUR_LINKEDIN) · [repository](https://github.com/YOUR_USERNAME)
 
-*If you've made it this far, you already know how to find me.*
+<br>
 
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Secure_Channel-000000?style=for-the-badge&logo=gmail&logoColor=39FF14"/></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/Network-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14"/></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Repository-000000?style=for-the-badge&logo=github&logoColor=39FF14"/></a>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ffffff&style=flat-square&label=observed"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=39FF14&style=flat-square&label=PROFILES+OBSERVED"/>
+<pre>
+you have been logged.
+it is already on its way.
+</pre>
+
+</div>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ffffff&style=flat-square&label=observed"/>
 
 <br><br>
 
-```
-[ END OF FILE ]
--- this profile is monitored --
-```
+<pre>
+you have been logged.
+it is already on its way.
+</pre>
 
 </div>
