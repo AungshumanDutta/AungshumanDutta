@@ -128,8 +128,8 @@ note: the last entry was added at 03:17 am.
 <br><br>
 
 <pre>
-still in school.
-already dangerous.
+don't look behind.
+it's already too late.
 </pre>
 
 </div>
