@@ -203,8 +203,8 @@ Deletion denied.
 <br/><br/>
 
 <pre>
-still in school.
-already dangerous.
+don't look behind.
+already too late.
 </pre>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:000000&height=100&section=footer" width="100%"/>
