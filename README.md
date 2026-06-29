@@ -149,7 +149,7 @@ we have not located the third.
 
 <div align="center">
 
-### `> git log --oneline`
+### `> git log --`
 
 <br/>
 
