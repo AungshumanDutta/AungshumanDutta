@@ -87,7 +87,7 @@ no one wonders what they're learning while we watch.
  linux           deepening
  numpy           active
  ai / ml         in progress
- ████████        [REDACTED]
+ @!3451#~        [REDACTED]
 </pre>
 
 ---
@@ -168,18 +168,24 @@ we have not located the third.
 <br/>
 
 <pre>
-[✓]  learn the fundamentals
-[✓]  understand what ai can actually do
-[ ]  make ai see what reactor sensors miss
-[ ]  build a system that predicts before it fails
-[ ]  get into engineering. go deep.
-[ ]  ship something that matters before graduation
-[ ]  ████████ ████ ████████ ████ ████ ████
+OBJECTIVES.LOG
 
-note: the last entry was added at 03:17 am.
-      no user was logged in.
-      it cannot be deleted.
-      it rewrites itself when removed.
+[✓]  Bootstrap complete
+[✓]  Baseline verified
+[ ]  Extend visibility beyond instrument limits
+[ ]  Anticipate cascade events
+[ ]  Reach authorization level ---
+[ ]  Recover --------------
+[ ]  --------- ------- ------ ----- ------
+
+SECURITY NOTICE
+
+03:17 — unauthorized write operation detected.
+No authenticated identity.
+Record accepted.
+
+Checksum valid.
+Deletion denied.
 </pre>
 
 ---
