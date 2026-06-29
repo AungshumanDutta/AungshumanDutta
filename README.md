@@ -8,7 +8,7 @@ you weren't supposed to find this.
 A U N G S H U M A N
 </pre>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1400&color=FFFFFF&center=true&vCenter=true&width=600&lines=still+in+school.+already+building+the+future.;ai+%2B+nuclear+engineering.+not+a+coincidence.;the+systems+are+learning.+so+am+i." alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1400&color=FFFFFF&center=true&vCenter=true&width=600&lines=life+is+shit.+building+the+future.;ai+%2B+nuclear+engineering.+not+a+coincidence.;the+systems+are+learning.+so+am+i." alt="" />
 
 </div>
 
