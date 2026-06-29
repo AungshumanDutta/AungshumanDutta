@@ -8,8 +8,14 @@ you weren't supposed to find this.
 A U N G S H U M A N
 </pre>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1400&color=FFFFFF&center=true&vCenter=true&width=600&lines=life+is+shit.+building+the+future.;ai+%2B+nuclear+engineering.+not+a+coincidence.;the+systems+are+learning.+so+am+i." alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1400&color=FFFFFF&center=true&vCenter=true&width=600&lines=still+in+school.+already+building+the+future.;ai+%2B+nuclear+engineering.+not+a+coincidence.;the+systems+are+learning.+so+am+i." alt="" />
 
+</div>
+
+---
+
+<div align="center">
+<img src="https://media.giphy.com/media/BBKbA9PFAIU0Mbe7ZS/giphy.gif" width="480" />
 </div>
 
 ---
@@ -62,6 +68,12 @@ no one wonders what they're learning while we watch.
 
 ---
 
+<div align="center">
+<img src="https://media.giphy.com/media/ibdTw92eDjE3nSMXmJ/giphy.gif" width="480" />
+</div>
+
+---
+
 <pre>
 [00:00:01]  all systems nominal
 [00:00:07]  anomalous process detected
@@ -89,6 +101,12 @@ no one wonders what they're learning while we watch.
  one did not.
  we have not located the third.
 </pre>
+
+---
+
+<div align="center">
+<img src="https://media.giphy.com/media/1fkEiiEz2iJwvuR0Hy/giphy.gif" width="480" />
+</div>
 
 ---
 
@@ -127,9 +145,13 @@ note: the last entry was added at 03:17 am.
 
 <br><br>
 
+<img src="https://media.giphy.com/media/l4JyZCrPhwZA2pO4E/giphy.gif" width="480" />
+
+<br><br>
+
 <pre>
-don't look behind.
-it's already too late.
+still in school.
+already dangerous.
 </pre>
 
 </div>
